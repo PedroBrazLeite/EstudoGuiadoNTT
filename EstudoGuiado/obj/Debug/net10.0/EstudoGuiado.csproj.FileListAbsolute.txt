@@ -1,0 +1,15 @@
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\bin\Debug\net10.0\EstudoGuiado.exe
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\bin\Debug\net10.0\EstudoGuiado.deps.json
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\bin\Debug\net10.0\EstudoGuiado.runtimeconfig.json
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\bin\Debug\net10.0\EstudoGuiado.dll
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\bin\Debug\net10.0\EstudoGuiado.pdb
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\obj\Debug\net10.0\EstudoGuiado.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\obj\Debug\net10.0\EstudoGuiado.AssemblyInfoInputs.cache
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\obj\Debug\net10.0\EstudoGuiado.AssemblyInfo.cs
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\obj\Debug\net10.0\EstudoGuiado.csproj.CoreCompileInputs.cache
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\obj\Debug\net10.0\EstudoGuiado.sourcelink.json
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\obj\Debug\net10.0\EstudoGuiado.dll
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\obj\Debug\net10.0\refint\EstudoGuiado.dll
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\obj\Debug\net10.0\EstudoGuiado.pdb
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\obj\Debug\net10.0\EstudoGuiado.genruntimeconfig.cache
+D:\dotnet course\estudoGuiado\EstudoGuiado\EstudoGuiado\obj\Debug\net10.0\ref\EstudoGuiado.dll

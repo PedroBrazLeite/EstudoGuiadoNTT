@@ -2,7 +2,7 @@
 
 public class PessoaJuridica : Pessoa
 {
-    public string CNPJ { get; set; }
+    public string CNPJ { get;}
 
     public PessoaJuridica(string nome, DateTime dataNascimento, string cpf, string cnpj) : base(nome, dataNascimento, cpf)
     {

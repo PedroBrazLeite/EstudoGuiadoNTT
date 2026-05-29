@@ -1,10 +1,10 @@
 ﻿namespace EstudoGuiado.Models;
 
-public class Pessoa
+public abstract class Pessoa
 {
-    public string Nome { get; set; }
-    public DateTime DataNascimento { get; set; }
-    public string Cpf { get; set; }
+    public string Nome { get;}
+    public DateTime DataNascimento { get;}
+    public string Cpf { get;}
 
     public Pessoa(string nome, DateTime dataNascimento, string cpf)
     {

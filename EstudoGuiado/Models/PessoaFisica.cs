@@ -2,7 +2,7 @@
 
 public class PessoaFisica : Pessoa
 {
-    public string RG { get; set; }
+    public string RG { get;}
     
     public PessoaFisica(string nome, DateTime dataNascimento, string cpf, string rg) : base(nome, dataNascimento, cpf)
     {

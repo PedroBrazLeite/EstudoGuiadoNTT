@@ -2,10 +2,10 @@
 
 public class Venda
 {
-    public Pessoa Comprador { get; set; }
-    public Produto Produto { get; set; }
-    public int Quantidade { get; set; }
-    public DateTime DataVenda { get; set; }
+    public Pessoa Comprador { get;}
+    public Produto Produto { get;}
+    public int Quantidade { get;}
+    public DateTime DataVenda { get; private set; }
 
     public Venda(Pessoa comprador, Produto produto, int quantidade)
     {

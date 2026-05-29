@@ -2,8 +2,8 @@
 
 public class Produto
 {
-    public string Nome { get; private set; }
-    public decimal Preco { get; private set; }
+    public string Nome { get;}
+    public decimal Preco { get;}
     public int Quantidade { get;  private set; }
 
     public Produto(string nome, decimal preco, int quantidade)
